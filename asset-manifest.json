@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/wallet/static/js/main.3052627b.js",
-    "index.html": "/wallet/index.html",
-    "main.3052627b.js.map": "/wallet/static/js/main.3052627b.js.map"
+    "main.js": "/static/js/main.3052627b.js",
+    "index.html": "/index.html",
+    "main.3052627b.js.map": "/static/js/main.3052627b.js.map"
   },
   "entrypoints": [
     "static/js/main.3052627b.js"
